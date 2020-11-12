@@ -1,0 +1,1 @@
+docker cp ./internalscript.sh sql1:/
